@@ -14,5 +14,3 @@
 <p>21</p>
 <h2>學校:</h2>
 <p>國立台北科技大學</p>
-<h2>可執行檔位置:</h2>
-https://github.com/107820009WuIJui/OOPL2022s/tree/main/ooplab_group21/Release
