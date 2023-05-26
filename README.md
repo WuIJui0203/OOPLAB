@@ -12,7 +12,5 @@
 <p>電資四</p>
 <h2>組別:</h2>
 <p>21</p>
-![螢幕擷取畫面 (1)](https://github.com/IJuiWu/OOPLAB/assets/108743498/d26374f8-e6ba-4f88-bd8c-d2eb38f23127)
-
 <h2>學校:</h2>
 <p>國立台北科技大學</p>
